@@ -10,7 +10,7 @@
 			</ul>
 		</div>
 		
-		<#include virtual="navigation.html">
+		<embed type="text/html" src="navigation.html">
 	</header>
 	
 	<h1>
