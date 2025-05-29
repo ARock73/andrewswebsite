@@ -10,7 +10,7 @@
 			</ul>
 		</div>
 		
-		<embed type="text/html" src="my-menu.html">
+		<?php include ('header.php');?>
 	</header>
 	
 	<h1>
