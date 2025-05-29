@@ -10,7 +10,7 @@
 			</ul>
 		</div>
 		
-		<embed type="text/html" src="navigation.html">
+		<embed type="text/html" src="my-menu.html">
 	</header>
 	
 	<h1>
@@ -18,6 +18,4 @@
 	</h1>
 	
 	<h2>This header was pushed with Github Desktop</h2>
-	
-	<h3>After nav emed</h3>
 </html>
