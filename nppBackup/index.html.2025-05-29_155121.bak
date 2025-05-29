@@ -1,0 +1,22 @@
+<html>
+	<link rel="stylesheet" href="style.css">
+	
+	<header>
+		<div id="navBar">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="goals.html">My Goals</a></li>
+				<li><a href="aboutme.html">About me</a></li>
+			</ul>
+		</div>
+		
+		<?php include ('header.php');?>
+		<?php include ("links.php");?>
+	</header>
+	
+	<h1>
+		Hey, I'm Andrew.
+	</h1>
+	
+	<h2>This header was pushed with Github Desktop</h2>
+</html>
